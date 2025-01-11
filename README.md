@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @savkethram
+- 👋 Hi, I’m @saqketram
 - 👀 I’m interested in DevOps projects
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps projects
-- 📫 How to reach me savkethram@gmail.com
+- 📫 How to reach me saqketram@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Gamer and an Engineer
 
